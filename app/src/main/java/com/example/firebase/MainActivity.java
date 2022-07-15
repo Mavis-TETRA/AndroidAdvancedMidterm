@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -21,6 +22,7 @@ import com.google.firebase.auth.FirebaseUser;
 public class MainActivity extends AppCompatActivity {
     Button btn_signin;
     TextView btn_regisster;
+    ImageView btn_google, btn_facebook;
     EditText inputemail, inputpassword;
     FirebaseUser firebaseUser;
     private FirebaseAuth mAuth;
@@ -34,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         inputpassword = findViewById(R.id.sign_pass);
         btn_regisster = findViewById(R.id.register);
         btn_signin = findViewById(R.id.sign_in);
+        btn_facebook = findViewById(R.id.btn_facebook);
+        btn_google = findViewById(R.id.btn_google);
 
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         if (firebaseUser != null) {
