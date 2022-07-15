@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/drawable/background_left.xml" value="0.155" />
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/drawable/background_right.xml" value="0.155" />
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.155" />
         <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
-        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/activity_message.xml" value="0.33" />
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/activity_message.xml" value="0.25" />
         <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/activity_register.xml" value="0.19519927536231885" />
         <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/activity_signin.xml" value="0.2" />
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/chat_item_left.xml" value="0.33" />
+        <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/chat_item_right.xml" value="0.19519927536231885" />
         <entry key="..\:/Users/tan/Documents/Code_IT/Android_Studio/Firebase/app/src/main/res/layout/item_users.xml" value="0.19010416666666666" />
       </map>
     </option>
